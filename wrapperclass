@@ -1,0 +1,9 @@
+public class Main{
+    public static void main(String[] args){
+        Integer myInt=5;
+        Double myDouble=25;
+        Character mychar='A';
+        System.out.println("myInt: "+Integer);
+        System.out.println("myDouble: "+Double);
+    }
+}
